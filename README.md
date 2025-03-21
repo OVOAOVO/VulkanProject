@@ -1,1 +1,1 @@
-因为Denpendency只下载了x64的glfw 所以只能在x64平台下跑
+因为Dependency只下载了x64的glfw 所以只能在x64平台下跑
