@@ -1,1 +1,3 @@
 因为Dependency只下载了x64的glfw 所以只能在x64平台下跑
+
+shader通过glslc.exe进行转换，shader目录下存有glsl_To_SpriV.bat
