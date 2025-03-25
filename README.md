@@ -8,3 +8,6 @@
 * validation layer: loader_get_json: Failed to open JSON file：  
 * 其实这个算是软件卸载的残留注册表  
 * 运行 regedit，转到Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Khronos\Vulkan\ImplicitLayers，删除卸载程序留下的有问题的 .json 项目
+
+## 演示
+![旋转的立方体](PResource/spinning_cube.gif)
