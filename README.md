@@ -10,4 +10,5 @@
 * 运行 regedit，转到Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Khronos\Vulkan\ImplicitLayers，删除卸载程序留下的有问题的 .json 项目
 
 ## 演示
-![旋转的立方体](PResource/robot_mipmap_msaa.gif)
+![旋转的立方体](PResource/robot_mipmap_msaa.gif)  
+![GPU粒子](PResource/particle.gif)
